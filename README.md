@@ -1,1 +1,12 @@
 # Follow
+- Controleur souris
+- Le point se met à suivre la souris si cette dernière se trouve à proximité
+- Pathfinding pour éviter les obstacles
+- Les points seront disposés de manière aléatoire
+- Le click gauche emet une onde de choc modifiant la couleur des points de manières uniforme et aléatoires
+- Les points devront avoir un arbre de comportement
+- Les points devront avoir un lissage de mouvement
+- Pas de collision pour le joueur
+- Menu (quitter/reprendre...)
+- Shadder et son
+- Un seul LD fixe
