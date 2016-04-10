@@ -10,3 +10,4 @@
 - Menu (quitter/reprendre...)
 - Shadder et son
 - Un seul LD fixe
+- Certains points en chassent d'autres
