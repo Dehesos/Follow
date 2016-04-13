@@ -11,3 +11,4 @@
 - Shadder et son
 - Un seul LD fixe
 - Certains points en chassent d'autres
+- La camera suivra le curseur avec un smooth (sinon c'est injouable)
